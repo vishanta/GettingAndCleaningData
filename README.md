@@ -1,8 +1,9 @@
-## Getting and Cleaning Data : Peer Assessment
+Getting and Cleaning Data : Peer Assessment
+===========================================
 
 This is the peer assessment for the course [getdata-009].
 
-#### How the script run_analysis.R perform?
+### How the script run_analysis.R perform?
 
 1. The first part of the R script downloads the UCI HAR Dataset dataset (if it does not exist) in the file working directrory and unzips the file into the 'UCI HAR Dataset' directory.
 
